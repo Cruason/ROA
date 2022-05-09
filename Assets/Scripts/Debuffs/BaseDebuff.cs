@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class BaseDebuff
 {
-    protected float _duration = 3f;
+    protected float _duration = 3f;123
     protected float _lastDebuffTime;
 
     public virtual void SetDuration(DebuffApply debuffApply)
